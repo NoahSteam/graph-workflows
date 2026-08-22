@@ -1,0 +1,7 @@
+{
+  "name": "graph-workflows",
+  "description": "Run larger tasks as graphs: a skill that teaches Claude to author dynamic workflows for the repo at hand, plus ready repo-agnostic workflows (verified diff review, parallel codebase mapping).",
+  "version": "0.1.0",
+  "author": { "name": "Noah" },
+  "keywords": ["workflow", "orchestration", "parallel", "subagents", "review", "graph"]
+}
