@@ -1,0 +1,11 @@
+{
+  "name": "graph-workflows-market",
+  "owner": { "name": "Noah" },
+  "plugins": [
+    {
+      "name": "graph-workflows",
+      "source": "./.",
+      "description": "Author and run dynamic workflows (graphs of subagents) on any repo. Ships a graph-authoring skill plus repo-agnostic review-diff and map-codebase workflows."
+    }
+  ]
+}
